@@ -6,6 +6,7 @@ body{
     background-image: url("table.png");
     margin-top: 10px;
     background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
     color: aliceblue;
     font-weight: bold;
