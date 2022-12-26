@@ -1,5 +1,5 @@
 let sum = 0;
-let newcard=4;
+let cards = [];
 let hasBlackJack = false;
 let isAlive=false;
 let message=""
